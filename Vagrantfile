@@ -1,5 +1,8 @@
 # http://qiita.com/masuidrive/items/0e0e5294bc2dc81a52c2
 
+
+
+
 Vagrant.configure("2") do |config|
 
   # インストールするOSを選択する。https://atlas.hashicorp.com/boxes/searchにインストール可能なOSがリストされている。
